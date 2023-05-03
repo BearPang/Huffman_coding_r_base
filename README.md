@@ -1,0 +1,4 @@
+# Huffman_coding_r_base
+实现单符号r进制霍夫曼编码
+主程序主要是测试单进制和多进制编码是否可用
+主要的程序是Huffman_CLQ
